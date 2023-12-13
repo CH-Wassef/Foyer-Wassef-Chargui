@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>tn.esprit.sprint</groupId>
-    <artifactId>Foyer_attia_imed</artifactId>
+    <artifactId>Foyer_wassef_chargui</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Foyer_attia_imed</name>
     <description>Foyer_attia_imed</description>
